@@ -4,13 +4,6 @@ You can use the [editor on GitHub](https://github.com/SmeetShah-marchant/AnActua
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Learning the Game of Basketball #
 
 The Game of Basketball is a true art in itself, whcih takes dedication and hard work to master. True masters of this games spend hours and hours in the gym mastering their craft to become the best to ever do it.
