@@ -27,9 +27,6 @@ Mastering the game first requires learning the basics. The three basic fundament
 
 ### Header 3
 
-- Bulleted
-- List
-
 1. Numbered
 2. List
 
