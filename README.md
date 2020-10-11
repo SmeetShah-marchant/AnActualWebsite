@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 The Game of Basketball is a true art in itself, whcih takes dedication and hard work to master. True masters of this games spend hours and hours in the gym mastering their craft to become the best to ever do it.
 
-![Person playing basketball in a gym](https://envato-shoebox-0.imgix.net/c3e4/9699-04f3-4bf1-9ea8-9c78d7e9b184/AWS_5839.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=b9a5490b2885dce243c876e53320e44b) 
+![Person playing basketball in a gym][https://envato-shoebox-0.imgix.net/c3e4/9699-04f3-4bf1-9ea8-9c78d7e9b184/AWS_5839.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=b9a5490b2885dce243c876e53320e44b]
 
 ## Learning the Basics ##
 
